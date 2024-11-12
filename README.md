@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <img src="resources/icon.png" height="60" width="60">
+  <a href="https://searchvectorlogo.com/jiotv-logo-vector-svg/" target="_blank"><img src="https://searchvectorlogo.com/wp-content/uploads/2020/04/jiotv-logo-vector.png" /></a>
   <br>
   JioTV
   <br>
