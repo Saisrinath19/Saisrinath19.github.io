@@ -45,4 +45,4 @@ Once installed ,Exit kodi.
 
 It will install jio plugin
 
-Then go to Jio add-on>configure>setup IPTV etc etc.
+Then go to Jio add-on>configure>setup IPTV etc etc
